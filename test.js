@@ -6,4 +6,4 @@ acccountCity ="Jaipur"
 
 accountId = 4
 
-console.log(accountId)
+console.log(accountId);
